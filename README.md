@@ -164,7 +164,7 @@ $cacheConfig = [
 Cache::setConfig('_cake_model_', $cacheConfig);
 ```
 
-Cache configs are optional, so you must require ``cachephp/cache`` to add one.
+Cache configs are optional, so you must require ``cakephp/cache`` to add one.
 
 ## Creating Custom Table and Entity Classes
 
